@@ -1,6 +1,8 @@
 # 24bppAsciiDraw
 Draw 24bpp BMP files in ASCII (Windows GDI)
 
+![alt tag](https://raw.githubusercontent.com/gregfrazier/24bppAsciiDraw/master/sample.png)
+
 Compile with cl linking user32.lib and gdi32.lib.
 
 Something like this:
